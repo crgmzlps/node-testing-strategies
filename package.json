@@ -1,0 +1,16 @@
+{
+  "name": "rocket-shop",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Carlo Roberto <crgmzlps@gmail.com> (http://www.github.com/crgmzlps;)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0",
+    "sinon": "^1.12.2"
+  },
+  "dependencies": {
+    "moment": "^2.9.0"
+  }
+}
