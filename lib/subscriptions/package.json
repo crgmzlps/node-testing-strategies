@@ -1,0 +1,13 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "The subscription module for Rocket Shop",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Carlo Roberto <crgmzlps@gmail.com> (http://www.github.com/crgmzlps;)",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  }
+}
