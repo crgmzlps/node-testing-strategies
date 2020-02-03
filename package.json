@@ -7,6 +7,7 @@
   "author": "Carlo Roberto <crgmzlps@gmail.com> (http://www.github.com/crgmzlps;)",
   "license": "MIT",
   "devDependencies": {
+    "coffee-script": "^1.9.1",
     "mocha": "^2.1.0",
     "sinon": "^1.12.2"
   },
